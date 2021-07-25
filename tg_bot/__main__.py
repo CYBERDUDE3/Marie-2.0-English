@@ -19,7 +19,8 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 hoi {}, my name is {}!
-ഏതാ മോനൂസെ @KLR_CHAT എന്നെ   മാത്രമേ ഉപയോഗിക്കാൻ പറ്റൂ...
+ഏതാ മോനൂസെ 
+
  വെറുതെ സമയം കളയാൻ നിൽക്കണ്ട...വേഗം ഗ്രൂപ്പിലേക്ക് വിട്ടോ സിനിമ അവിടെ കിട്ടും...🤭🤭
 
  if you have any questions about how to use me please give me /help... 
@@ -29,7 +30,7 @@ hoi {}, my name is {}!
 HELP_STRINGS = """
 
 Hello! my name *{}*.
-Want a Modified bot like this contact @CYBER_YT1
+Want a Modified bot like this contact @FLIQ_YT
  I also make simple bots!.
 """
 
